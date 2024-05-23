@@ -15,7 +15,7 @@ h3{
 }
 .RightInputButton>input{
     width: 150px;
-    height: 29git px;
+    height: 29px;
     border: 1px solid white;
     padding-top: 3px;
     padding-left: 10px;
@@ -32,4 +32,5 @@ h3{
     background-color: black;
     text-align: center;
     font-size: 12px;
+    
 }
