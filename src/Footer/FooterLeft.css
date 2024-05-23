@@ -1,0 +1,35 @@
+.Image{
+    width: 45px;
+    height: 45px;
+}
+h3{
+    color: white;
+    width: 250px;
+    font-weight: 300;
+    font-size: 25px;
+}
+.LeftP{
+    color: white;
+    font-size: 12px;
+  padding-top:60px;
+}
+.RightInputButton>input{
+    width: 150px;
+    height: 29git px;
+    border: 1px solid white;
+    padding-top: 3px;
+    padding-left: 10px;
+    /* text-align: center; */
+    background-color: white;
+    font-size: 12px;
+}
+.RightInputButton>button{
+    width: 100px;
+    height:35px;
+    border: 1px solid white;
+    padding-top: 3px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 12px;
+}

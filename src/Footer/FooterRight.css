@@ -1,0 +1,23 @@
+p{
+    color: white;
+    font-weight: 100;
+}
+.FooterFlex{
+    display: flex;
+    gap: 80px;
+    font-size: 12px;
+}
+.LogoFlex{
+    display: flex;
+    padding-left: 40%;
+    gap: 10px;
+}
+.LogoPage{
+    width: 45px;
+    height: 45px;
+    padding-top: 100px;
+}
+.Email{
+    color: white;
+    font-weight: 900;
+}

@@ -1,0 +1,49 @@
+.Main-height{
+    width: 400px;
+}
+.Main-height h1{
+    font-size: 40px;
+    font-weight: 500;
+    font-family:Neue Machina;
+}
+.Main-p{
+    width:400px;
+}
+.Main-p p{
+font-size: 16px;
+font-family:Neue Machina;
+}
+.InputButton{
+ display: flex;
+ margin-top: 25px;
+ /* gap: 40px; */
+}
+.InputButton>div:first-child>input{
+    width: 250px;
+    height: 30px;
+    border: 1px solid white;
+    padding-top: 5px;
+    padding-left: 10px;
+    /* text-align: center; */
+    background-color: white;
+    font-size: 13px;
+}
+.InputButton>div:last-child>button{
+    width: 100px;
+    height:38px;
+    border: 1px solid black;
+    padding-top: 5px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 13px;
+}
+.Logo{
+    display: flex;
+    gap: 10px;
+    margin-top: 40px;
+}
+.LogoElement{
+width: 60px;
+height: 40px;
+}

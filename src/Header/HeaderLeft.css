@@ -1,0 +1,12 @@
+.MyImage{
+    width: 52px;
+    height: 52px;
+}
+ul{
+    display: flex;
+    gap: 35px;
+}
+li{
+    list-style: none;
+    padding-top: 12px;
+}

@@ -1,0 +1,26 @@
+
+.Main-div{
+    display: flex;
+    /* justify-content: flex-end; */
+    gap: 15px;
+    margin-top: 20px;
+}
+.Main-div>div:first-child{
+    width: 80px;
+    height: 30px;
+    border: 1px solid white;
+    padding-top: 7px;
+    text-align: center;
+    background-color: white;
+    font-size: 14px;
+}
+.Main-div>div:last-child{
+    width: 80px;
+    height: 30px;
+    border: 1px solid black;
+    padding-top: 7px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 14px;
+}
