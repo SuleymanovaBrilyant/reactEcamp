@@ -12,6 +12,7 @@
 .Main-p p{
 font-size: 16px;
 font-family:Neue Machina;
+color: black;
 }
 .InputButton{
  display: flex;
